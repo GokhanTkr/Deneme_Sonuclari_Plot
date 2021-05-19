@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
-list_x = [0,1,2,3,4]
-list_y = [33.75,32.75,32.0,30.75,33.25]
+list_x = [0,1,2,3,4,5]
+list_y = [33.75,32.75,32.0,30.75,33.25,32.5]
 
 plt.axhline(y = 40,linewidth = 1,color = 'r',label = "Max Net")
 plt.xlabel("Deneme Sayısı")
